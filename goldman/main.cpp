@@ -2,6 +2,7 @@
 #include <graphics.h>
 #include <stdlib.h>
 #include <stdio.h>
+using namespace std;
 //macro
 #define WINDOWWIDTH		1080
 #define WINDOWHEIGHT	640
@@ -48,6 +49,7 @@ void initGame()
 }
 void drawGame()
 {
+	cout << "Test" << endl;
 	putimage(0, 120, &imgPicture[i_bk]);
 	
 }
