@@ -19,4 +19,39 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\0.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\3.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\4.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\5.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\6.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\7.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\8.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\9.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\bk.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

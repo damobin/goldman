@@ -141,6 +141,19 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\0.jpg" />
+    <Image Include="images\1.jpg" />
+    <Image Include="images\2.jpg" />
+    <Image Include="images\3.jpg" />
+    <Image Include="images\4.jpg" />
+    <Image Include="images\5.jpg" />
+    <Image Include="images\6.jpg" />
+    <Image Include="images\7.jpg" />
+    <Image Include="images\8.jpg" />
+    <Image Include="images\9.jpg" />
+    <Image Include="images\bk.jpg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
